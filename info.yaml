@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "ECE 430 example"      # Project title
+  title:        "pm32"      # Project title
   author:       "Fayol Ateufack"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "32 bit multiplier"      # One line description of what your project does
